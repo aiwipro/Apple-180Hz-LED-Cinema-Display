@@ -23,6 +23,14 @@ DisplayPort, HDMI and DC Power connected in the original power socket. The navig
 
 ![IMG_5465.jpeg](images/IMG_5465.jpeg)
 
+## Parts list
+
+- [DisplayPort Extension Cable, 30cm, P6A-P8T](https://www.aliexpress.com/item/1005003233768741.html)
+- [HDMI Extension Cable, 30cm, A6-A8T](https://www.aliexpress.com/item/1005004904129695.html)
+- [DC Power Socket, 5Pcs 5.5x2.5mm](https://www.aliexpress.com/item/4000559875991.html)
+- [DC Power Plug, 5.5X2.5mm](https://www.aliexpress.com/item/1005006403577762.html)
+
+
 ## Teardown
 
 ![IMG_3512.jpeg](images/IMG_3512.jpeg)
@@ -75,7 +83,7 @@ The bracket assembly is secured inside the Apple Cinema Display enclosure along 
 
 ![IMG_5454.jpeg](images/IMG_5454.jpeg)
 
-Screws are clued in to place, with nuts on the correct height to secure the driver board to the enclosure.
+Screws are glued in to place, with nuts on the correct height to secure the driver board to the enclosure.
 
 ![IMG_5457.jpeg](images/IMG_5457.jpeg)
 
