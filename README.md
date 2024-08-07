@@ -1,5 +1,7 @@
 # Apple-180Hz-LED-Cinema-Display
-Fitting a LG Ultragear 27GP850-B (1440p 180Hz) monitor inside an 27" Apple Cinema LED Display while preserving most of the original Apple aesthetics.
+Fitting a LG Ultragear 27GP850-B (1440p 180Hz) monitor inside an 27" Apple LED Cinema Display while preserving most of the original Apple aesthetics.
+
+Unlike the original Apple LED Cinema Display, this verion has a full size DisplayPort and HDMI input. The Magsafe 1 connector is also removed.
 
 ## Final Result
 
@@ -11,15 +13,15 @@ The rear of the monitor is very similar to the original Apple Cinema Display.
 
 ![IMG_5464.jpeg](images/IMG_5464.jpeg)
 
-DC Power and DisplayPort connected in the original power socket
+DisplayPort, HDMI and DC Power connected in the original power socket.
 
 ![IMG_5484.jpeg](images/IMG_5484.jpeg)
 
-DisplayPort, HDMI and DC Power connected in the original power socket
+It is possible to have DisplayPort and HDMI connected at the same time.
 
 ![IMG_5469.jpeg](images/IMG_5469.jpeg)
 
-DisplayPort, HDMI and DC Power connected in the original power socket. The navigation joystick is accessible from the hole below.
+While the DisplayPort, HDMI and DC Power are connected in the original power socket, the navigation joystick is accessible using the hole below.
 
 ![IMG_5465.jpeg](images/IMG_5465.jpeg)
 
@@ -71,7 +73,7 @@ An aluminium bracket is created to hold the DisplayPort, HDMI and DC Power socke
 
 ![IMG_5448.jpeg](images/IMG_5448.jpeg)
 
-Once adhered, the surface is covered by a black tape, which later is cut to expose the sockets.
+The bracket surface is covered by a black tape, which is then cut to expose the sockets.
 
 ![IMG_5450.jpeg](images/IMG_5450.jpeg)
 
@@ -105,7 +107,7 @@ The front glass is put back on, and the monitor is ready to be used.
 
 ![IMG_5463.jpeg](images/IMG_5463.jpeg)
 
-The rear ports are accessible through the original Apple Cinema Display power socket.
+The rear ports are accessible through the original AC power socket.
 
 ![IMG_5465.jpeg](images/IMG_5465.jpeg)
 
