@@ -2,7 +2,7 @@
 Fitting a LG Ultragear 27GP850-B (1440p 180Hz) monitor inside an 27" Apple Cinema LED Display while preserving most of the original Apple aesthetics.
 
 ## Final Result
-1
+
 From the front, the monitor looks like a regular Apple Cinema Display.
 
 ![IMG_3513.jpeg](images/IMG_3513.jpeg)
